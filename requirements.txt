@@ -1,4 +1,6 @@
 trl 
+gradio
+tts
 accelerate 
 peft 
 bitsandbytes 
