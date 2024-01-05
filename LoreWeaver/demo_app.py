@@ -1,1 +1,0 @@
-# LoreWeaver Demo interface
