@@ -1,7 +1,7 @@
 # LoreWeaver: Multimodal Language Model for Inclusive Storytelling
 ![loreweaver-github](https://github.com/Basel-anaya/LoreWeaver/assets/81964452/5644db74-67d0-49f1-8362-3661c99361de)
 
-Welcome to the collaborative project repository for LoreWeaver! LoreWeaver is a multimodal language model designed to create inclusive stories and novels. With support for text-to-image for individuals with dyslexia and text-to-audio for the visually impaired, LoreWeaver aims to make storytelling accessible to a diverse audience. The user interface is powered by Gradio, providing an intuitive and user-friendly experience.
+Welcome to the collaborative project repository for LoreWeaver! LoreWeaver is a multimodal language model designed to create inclusive stories and novels. With support for text-to-audio for the visually impaired, LoreWeaver aims to make storytelling accessible to a diverse audience. The user interface is powered by Gradio, providing an intuitive and user-friendly experience.
 
 ## Table of Contents
 - Introduction
@@ -19,7 +19,6 @@ LoreWeaver addresses the needs of diverse readers by incorporating text-to-image
 The project encompasses the development of LoreWeaver, focusing on the following key features:
 
 - Multimodal Language Modeling
-- Text-to-Image Generation
 - Text-to-Audio Narration
 
 ## Gradio-based User Interface
