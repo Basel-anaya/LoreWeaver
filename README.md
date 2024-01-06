@@ -51,7 +51,7 @@ git checkout -b feature/your-feature-name
 ```bash
 pip install -r requirements.txt
 ```
-5. Start Contributing: Work on your assigned task or propose a new one. Follow the coding style guidelines.
+5. Start Contributing: propose a new task. Follow the coding style guidelines.
 
 6. Commit Changes: Commit your changes to your branch.
 
