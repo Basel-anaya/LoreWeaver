@@ -27,7 +27,6 @@ The project encompasses the development of LoreWeaver, focusing on the following
 2. Improve Text-to-Image Generation
 3. Optimize Text-to-Audio Narration
 4. Create Gradio User Interface
-5. ...
 
 Contributors are encouraged to propose additional ideas and features that align with the project's goals.
 
